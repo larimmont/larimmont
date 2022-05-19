@@ -1,9 +1,9 @@
 
 ### Oi Pessoas! Meu nome é Larissa Menezes; 🌻
 
-- 🌱 Estudando Javascript | Node.js
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Além de estar amando programar, gosto também de explorar os programas Figma e Canva. 
+- 🌱 Estudando Javascript | Java
+- 😄 Pronouns: Ela | Dela
+- ⚡ Fun fact: Além de estar amando programar, gosto também de explorar o Figma e fazer lindas ilustrações minimalistas.
 
 
 <div align="center">
